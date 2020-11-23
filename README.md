@@ -12,7 +12,7 @@ Repository for notes relating to mead making experiments
 
 * 2 batches were made - a standard mead, and a second that followed standard mead recipe, but with additional raspberries and juice (see note below)
 * As in usual fermentation, it is important to keep everything clean. There are products for this that are cheap and readily available.  Clean surfaces, utensils, vessels and your hands
-* 5 Gallon (~4.5L) glass carboys were used with water filled airlocks.
+* 5 Gallon (~4.5L) glass carboys were used with water filled airlocks (although some people use cheap vodka in the airlocks)
 
 ### Standard Mead Recipe
 
