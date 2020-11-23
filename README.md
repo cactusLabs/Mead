@@ -52,11 +52,10 @@ ZoZo Berry 1.020 - added 1/4 teaspoon of yeast nutrient dissolved in the must us
 Standard Mead 1.061 - added a small 1/4 teaspoon of yeast nutrient dissolved in the must used to measure density
 ZoZo Berry  1.012 - taken before topping solution up with a little water (boiled and allowed to cool first)
 
-#### Alcohol content
+### Alcohol content
 
-When you first mix the must, the specific gravity reading should be between 1.06 and 1.12 which is pretty normal but may vary depending on how much honey is used.
-
-I believe that alcohol content of the must may be estimated using the following equation:
+* When you first mix the must, the specific gravity reading should be between 1.06 and 1.12 which is pretty normal but may vary depending on how much honey is used.
+* I believe that alcohol content of the must may be estimated using the following equation:
 
 (Initial Gravity - Final Gravity) x 131.25
 
@@ -64,6 +63,13 @@ Therefore, current estimates:
 
 Standard Mead = ~9%
 ZoZo Berry  = ~14%
+
+### Future Plans
+
+* We may have to rack the 'ZoZo Berry' a third and final time to remove remnant dead yeast from the bottom.  It makes sense that this carboy has more dead yeast present - as the extra fruit means extra sugar for the yeast to feast on, sending them crazy until the alcohol content got so high that it was too much for the yeast, killing it.  If you compare the Lalvin D47 tolerance (14%) with the above alchohol content estimate (14%), this would support the theory.  I'll probably do this one month after the last racking.
+* I plan on leaving both batches in carboys for 6 months before bottling for at least 9 months
+* The yeast needs to be killed before bottling - to prevent unwanted fermentation and lower the risk of explosions.  The combination of potassium sorbate and potassium sulfite (campden tablets) will prevent renewed fermentation.  This is usually completed before any back-sweetening.  Given the amount of honey used in this experiment, I currently don't plan on back-sweeting.  Follow instruction provided on products, but I've found people on forums advising '1 campden tablet and 1/2 tsp sorbate per gallon on finished cider, wine or mead dissolved in a small amount of water or product. Once treated you can back sweeten. I usually leave wait to sweeten until 1 or 2 days after treating. And you should wait a week or two after treating before bottling to prevent any sulphur smells.'
+
 
 
 
