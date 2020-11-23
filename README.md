@@ -3,6 +3,11 @@ Repository for notes relating to mead making experiments
 
 ##Notes
 
+* 'Racking' is the process of moving the mead from one receptacle to another
+* 'Primary' refers to the initial period of fermentation
+* 'Secondary' refers to the following period of fermentation
+* 'Racking to secondary' is a misnomer, as the fermentation should enter secondary regardless of being racked or not... it is a chemical process independent of the vessel it is stored in
+
 ##Experiment #1:  Windmill Hill, Bristol, UK.  Began 6 October 2020
 
 * 2 batches were made - a standard mead, and a second that followed standard mead recipe, but with additional raspberries and juice (see note below)
@@ -22,9 +27,21 @@ Repository for notes relating to mead making experiments
 
 * The above 'Standard Mead Recipe' was followed, but with 1 cup (~236mL) of orange juice (with pulp) and a small punnet of raspberries (washed, but not sterilised and quartered) were added
 * In hindsight and upon further research, the orange juice was a huge mistake. *Do NOT* use citrus juice in mead production - you will find loads of comments in forums related to orange juice introducing a 'vomit' taste to your brew. A much better option would have been apple juice.   I think the saving grace for this batch will be the relatively small amount of OJ added. Having said that, the extra sugar from the fruits made the yeast go crazy, and it is currently a *very* strong batch of kinda weird tasting, almost 'tart' mead.
-* This carboy was racked after 1 month to remove the fruit remnants (leaving fruit for too long during fermentation is going to introduce some bad flavours). We poured the fruit and left over must into a muslin cloth and gently squeezed out some yeast before returning it to the second carboy (unsure whether this was wise?!)
-* This second carboy was racked a second time 2 weeks later (6 weeks after it was first put down) 
-I am considering re-racking for a third time, and adding some dark cocoa for 6 months or so to try to salvage it... it's not *too* bad at the moment, but   Another option would be to freeze the batch and removing some ice before bottling... basically moving towards a 'honey, chocolate orange liquor'... could be crazy enough to work?!
+
+###Racking
+
+* You rack to a new carboy to remove dead yeast, etc to improve flavour, clarity, etc of the mead.  
+* Racking usually occurs 4-6 weeks into fermentation.
+* Care is taken to not move the carboy so as not to disturb the dead yeast, etc that forms at the bottom of the carboy.  
+
+* The 'Standard Mead' was racked after ~6 weeks using a manual syphon, filtered through some muslin cloth.  
+* The 'ZoZo Berry' carboy was racked after 1 month to remove the fruit remnants (leaving fruit for too long during fermentation is going to introduce some bad flavours). We poured the fruit and the left over must into a muslin cloth and gently squeezed out some yeast before returning it to the second carboy (unsure whether this was wise?!)
+* This second carboy was racked a second time ~2 weeks later (~6 weeks after it was first put down - and at the same time as the 'Standard Mead' was racked) 
+* I am considering racking the 'ZoZo Berry' for a third time, adding some dark cocoa for 6 months or so to try to salvage it... it's not *too* bad at the moment, but could be better.  I am also considering freezing the batch to remove some ice before bottling... basically moving it towards a 'honey, chocolate orange liquor'... could be crazy enough to work?!
+
+
+
+
 
 
 
