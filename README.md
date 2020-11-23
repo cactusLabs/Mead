@@ -6,7 +6,7 @@ Repository for notes relating to mead making experiments
 * 'Racking' is the process of moving the mead from one receptacle to another
 * 'Primary' refers to the initial period of fermentation
 * 'Secondary' refers to the following period of fermentation
-* 'Racking to secondary' is a misnomer, as the fermentation should enter secondary regardless of being racked or not... it is a chemical process independent of the vessel it is stored in
+* 'Racking to secondary' is a misnomer, as the fermentation should enter secondary regardless of being racked or not... it is a chemical process independent of the vessel in which it is stored
 
 ## Experiment #1:  Windmill Hill, Bristol, UK.  Began 6 October 2020
 * 2 batches were made - a standard mead, and a second that followed standard mead recipe, but with additional raspberries and juice (see note below)
