@@ -34,6 +34,8 @@ Repository for notes relating to mead making experiments
 * Racking usually occurs 4-6 weeks into fermentation.
 * Care is taken to not move the carboy so as not to disturb the dead yeast, etc that forms at the bottom of the carboy.  
 
+#### This experiment...
+
 * The 'Standard Mead' was racked after ~6 weeks using a manual syphon, filtered through some muslin cloth.  
 * The 'ZoZo Berry' carboy was racked after 1 month to remove the fruit remnants (leaving fruit for too long during fermentation is going to introduce some bad flavours). We poured the fruit and the left over must into a muslin cloth and gently squeezed out some yeast before returning it to the second carboy (unsure whether this was wise?!)
 * This second carboy was racked a second time ~2 weeks later (~6 weeks after it was first put down - and at the same time as the 'Standard Mead' was racked) 
@@ -42,15 +44,15 @@ Repository for notes relating to mead making experiments
 ### Density Readings
 
 #### 6 October 2020 
-Standard Mead 1.13
-ZoZo Berry  1.12
+* Standard Mead 1.13
+* ZoZo Berry  1.12
 
 #### Racked 8 November 2020
-ZoZo Berry 1.020 - added 1/4 teaspoon of yeast nutrient dissolved in the must used to measure density
+* ZoZo Berry 1.020 - added 1/4 teaspoon of yeast nutrient dissolved in the must used to measure density
 
 #### Racked 21 November 2020
-Standard Mead 1.061 - added a small 1/4 teaspoon of yeast nutrient dissolved in the must used to measure density
-ZoZo Berry  1.012 - taken before topping solution up with a little water (boiled and allowed to cool first)
+* Standard Mead 1.061 - added a small 1/4 teaspoon of yeast nutrient dissolved in the must used to measure density
+* ZoZo Berry  1.012 - taken before topping solution up with a little water (boiled and allowed to cool first)
 
 ### Alcohol content
 
@@ -59,10 +61,10 @@ ZoZo Berry  1.012 - taken before topping solution up with a little water (boiled
 
 (Initial Gravity - Final Gravity) x 131.25
 
-Therefore, current estimates:
+#### Therefore, current estimates:
 
-Standard Mead = ~9%
-ZoZo Berry  = ~14%
+* Standard Mead = ~9%
+* ZoZo Berry  = ~14%
 
 ### Future Plans
 
