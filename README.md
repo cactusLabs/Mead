@@ -17,6 +17,7 @@ Repository for notes relating to mead making experiments
 ### Standard Mead Recipe
 
 * Raw honey used was 'Payne's Blossom Honey' - I bought 3.17kg and split evenly between the two batches.  This was likely too much.  I *did not* use heat to dissolve the honey - you can dissolve by either stirring into the water using a spoon & bucket, or by funneling the honey and water into the carboy, plugging it and shaking for 5 minutes.
+* Blossom honey isn't that fancy, there are better options... but given that this was the first experiment, I didn't want to go all out
 * Once the honey and water has been dissolved in a carboy, syphon some out into a beaker and the initial hydrometer reading was taken (the initial density of the honey and water)
 * Yeast used was Lalvin D47 (~14% alcohol tolerance).  Pitched in 50ml water @ ~35 degrees for 20 minutes before gently stirring, then added to the carboy honey/water to create the 'must'.
 * Yeast nutrient used was Diammonium Phosphate - after the hydrometer reading, a teaspoon of nutrient was added to the beaker and left to sit for 20 minutes
