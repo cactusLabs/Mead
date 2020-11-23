@@ -42,8 +42,8 @@ Repository for notes relating to mead making experiments
 ### Density Readings
 
 #### 6 October 2020 
-Standard Mead 1.013
-ZoZo Berry  1.012
+Standard Mead 1.13
+ZoZo Berry  1.12
 
 #### Racked 8 November 2020
 ZoZo Berry 1.020 - added 1/4 teaspoon of yeast nutrient dissolved in the must used to measure density
@@ -54,11 +54,16 @@ ZoZo Berry  1.012 - taken before topping solution up with a little water (boiled
 
 #### Alcohol content
 
+When you first mix the must, the specific gravity reading should be between 1.06 and 1.12 which is pretty normal but may vary depending on how much honey is used.
+
 I believe that alcohol content of the must may be estimated using the following equation:
 
-Initial Gravity - Final Gravity x 131.25
+(Initial Gravity - Final Gravity) x 131.25
 
 Therefore, current estimates:
+
+Standard Mead = ~9%
+ZoZo Berry  = ~14%
 
 
 
