@@ -47,6 +47,7 @@ ZoZo Berry  1.12
 ZoZo Berry 1.020 - added 1/4 teaspoon of yeast nutrient dissolved in the must used to measure density
 
 #### * Racked 21 November 2020
+
 Standard Mead 1.061 - added a small 1/4 teaspoon of yeast nutrient dissolved in the must used to measure density
 ZoZo Berry  1.012 - taken before topping solution up with a little water (boiled and allowed to cool first)
 
@@ -55,6 +56,7 @@ ZoZo Berry  1.012 - taken before topping solution up with a little water (boiled
 * I believe that alcohol content of the must may be estimated using the equation - (Initial Gravity - Final Gravity) x 131.25
 
 #### Therefore, current estimates:
+
 Standard Mead = ~9%
 ZoZo Berry  = ~14%
 
