@@ -39,26 +39,24 @@ Repository for notes relating to mead making experiments
 
 ### Density Readings
 
-#### * 6 October 2020 
-Standard Mead 1.13
-ZoZo Berry  1.12
+#### 6 October 2020 
+* Standard Mead 1.13
+* ZoZo Berry  1.12
 
-#### * Racked 8 November 2020
-ZoZo Berry 1.020 - added 1/4 teaspoon of yeast nutrient dissolved in the must used to measure density
+#### Racked 8 November 2020
+* ZoZo Berry 1.020 - added 1/4 teaspoon of yeast nutrient dissolved in the must used to measure density
 
-#### * Racked 21 November 2020
-
-Standard Mead 1.061 - added a small 1/4 teaspoon of yeast nutrient dissolved in the must used to measure density
-ZoZo Berry  1.012 - taken before topping solution up with a little water (boiled and allowed to cool first)
+#### Racked 21 November 2020
+* Standard Mead 1.061 - added a small 1/4 teaspoon of yeast nutrient dissolved in the must used to measure density
+* ZoZo Berry  1.012 - taken before topping solution up with a little water (boiled and allowed to cool first)
 
 ### Alcohol content
 * When you first mix the must, the specific gravity reading should be between 1.06 and 1.12 which is pretty normal but may vary depending on how much honey is used.
 * I believe that alcohol content of the must may be estimated using the equation - (Initial Gravity - Final Gravity) x 131.25
 
 #### Therefore, current estimates:
-
-Standard Mead = ~9%
-ZoZo Berry  = ~14%
+* Standard Mead = ~9%
+* ZoZo Berry  = ~14%
 
 ### Future Plans...
 * We may have to rack the 'ZoZo Berry' a third and final time to remove remnant dead yeast from the bottom.  It makes sense that this carboy has more dead yeast present - as the extra fruit means extra sugar for the yeast to feast on, sending them crazy until the alcohol content got so high that it was too much for the yeast, killing it.  If you compare the Lalvin D47 tolerance (14%) with the above alchohol content estimate (14%), this would support the theory.  I'll probably do this one month after the last racking.
