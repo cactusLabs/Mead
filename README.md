@@ -60,7 +60,7 @@ Repository for notes relating to mead making experiments
 
 ### Future Plans...
 * We may have to rack the 'ZoZo Berry' a third and final time to remove remnant dead yeast from the bottom. I'll probably do this one month after the last racking.  It makes sense that this carboy has more dead yeast present - extra fruit means extra sugar for the yeast to feast on, means higher alcohol content until it gets so high that it was too much for the yeast, killing it.  This theory is supported by comparing the Lalvin D47 tolerance (14%) with the above alchohol content estimate of the ZoZo Berry (14%).  
-* I plan on leaving both batches in carboys for 6 months before bottling for at least 9 months
+* I had first planned on leaving both batches in carboys for 6 months before bottling for at least 9 months.  However, an upcoming house move (new city) will likely mean that that both batches will be bottled after being in the carboys for about 2.5 months.  
 * The yeast needs to be killed before bottling - to prevent unwanted fermentation and lower the risk of explosions.  The combination of potassium sorbate and potassium sulfite (campden tablets) will prevent renewed fermentation.  This is usually completed before any back-sweetening.  Given the amount of honey used in this experiment, I currently don't plan on back-sweetening.  Follow instruction provided on products, but I've found people on forums advising '1 campden tablet and 1/2 tsp sorbate per gallon on finished cider, wine or mead dissolved in a small amount of water or product. Once treated you can back sweeten. I usually leave wait to sweeten until 1 or 2 days after treating. And you should wait a week or two after treating before bottling to prevent any sulphur smells.'
 
 
