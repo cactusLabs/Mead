@@ -33,9 +33,9 @@ Repository for notes relating to mead making experiments
 
 #### Progress...
 * The 'Standard Mead' was racked after ~6 weeks using a manual syphon, filtered through some muslin cloth.  
-* The 'ZoZo Berry' carboy was racked after 1 month to remove the fruit remnants (leaving fruit for too long during fermentation is going to introduce some bad flavours). We poured the fruit and the left over must into a muslin cloth and gently squeezed out some yeast before returning it to the second carboy (unsure whether this was wise?!)
-* This second carboy was racked a second time ~2 weeks later (~6 weeks after it was first put down - and at the same time as the 'Standard Mead' was racked) 
-* I am considering racking the 'ZoZo Berry' for a third time, adding some dark cocoa for 6 months or so to try to salvage it... it's not *too* bad at the moment, but could be better.  I am also considering freezing the batch to remove some ice before bottling... basically moving it towards a 'honey, chocolate orange liquor'... could be crazy enough to work?!
+* The 'ZoZo Berry' carboy was racked after 1 month (8 Nov 2020) to remove the fruit remnants (leaving fruit for too long during fermentation is going to introduce some bad flavours). We poured the fruit and the left over must into a muslin cloth and gently squeezed out some yeast before returning it to the second carboy (unsure whether this was wise?!)
+* This 'ZoZo Berry' carboy was racked a second time 21 Nov 2020 (~6 weeks after it was first put down - and at the same time as the 'Standard Mead' was racked) 
+* This 'ZoZo Berry' carboy was racked a third time 15 Dec 2020
 
 ### Density Readings
 
@@ -59,6 +59,7 @@ Repository for notes relating to mead making experiments
 * ZoZo Berry  = ~14%
 
 ### Future Plans...
+* I am considering racking the 'ZoZo Berry' for a third time, adding some dark cocoa for 6 months or so to try to salvage it... it's not *too* bad at the moment, but could be better.  I am also considering freezing the batch to remove some ice before bottling... basically moving it towards a 'honey, chocolate orange liquor'... could be crazy enough to work?!
 * We may have to rack the 'ZoZo Berry' a third and final time to remove remnant dead yeast from the bottom. I'll probably do this one month after the last racking.  It makes sense that this carboy has more dead yeast present - extra fruit means extra sugar for the yeast to feast on, means higher alcohol content until it gets so high that it was too much for the yeast, killing it.  This theory is supported by comparing the Lalvin D47 tolerance (14%) with the above alchohol content estimate of the ZoZo Berry (14%).  
 * I had first planned on leaving both batches in carboys for 6 months before bottling for at least 9 months.  However, an upcoming house move (new city) will likely mean that that both batches will be bottled after being in the carboys for about 2.5 months.  
 * The yeast needs to be killed before bottling - to prevent unwanted fermentation and lower the risk of explosions.  The combination of potassium sorbate and potassium sulfite (campden tablets) will prevent renewed fermentation.  This is usually completed before any back-sweetening.  Given the amount of honey used in this experiment, I currently don't plan on back-sweetening.  Follow instruction provided on products, but I've found people on forums advising '1 campden tablet and 1/2 tsp sorbate per gallon on finished cider, wine or mead dissolved in a small amount of water or product. Once treated you can back sweeten. I usually leave wait to sweeten until 1 or 2 days after treating. And you should wait a week or two after treating before bottling to prevent any sulphur smells.'
