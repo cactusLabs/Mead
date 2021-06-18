@@ -63,8 +63,9 @@ Repository for notes relating to mead making experiments
 Stabilised both meads 10 January 2020.  Used Potassium Metabisulifite (K-Met): (1/4 teaspoon in ZoZo Berry and the Standard Mead) and Potassium Sulphate (1/4 teaspon in ZoZo Berry and 3/4 teaspoon in Standard Mead).  Mixed PM & PS into some water, before adding solution to each 5 gallon carboy.
 
 
-### Future Plans...
-* I had first planned on leaving both batches in carboys for 6 months before bottling for at least 9 months.  However, an upcoming house move (new city) will likely mean that that both batches will be bottled after being in the carboys for about 2.5 months.  
+### Bottled
+
+Bottled both batches 17 January, 2021.  To age for at least 6 months before testing.
 
 
 
