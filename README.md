@@ -1,5 +1,5 @@
 # Mead
-Repository for notes relating to mead making experiments
+Repository for notes relating to mead making experiment during Lock Down.
 
 ## Notes
 
